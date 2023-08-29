@@ -1,7 +1,3 @@
-
-
-
-
 const firebaseConfig = {
     apiKey: "AIzaSyA9rsIZZNLaZJwaXdW8YJ-AWVxqTNXnhe0",
     authDomain: "login-with-firebase-c1650.firebaseapp.com",

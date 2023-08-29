@@ -56,7 +56,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 1px;
     background-image: -webkit-linear-gradient(25deg, #FFBE08, #FB5607, #FF006E, #8338EC, #3A86FF);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
